@@ -16,7 +16,7 @@ Part of the **EV_PNC** platform: a neutral eMSP integration layer for Turkey-fir
 
 ## Tech stack
 
-Kotlin, Spring Boot 3, PostgreSQL, Kafka
+Java, Spring Boot 4, PostgreSQL, Kafka
 
 ## Packaging
 
